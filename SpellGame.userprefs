@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameSceneScripts/GridController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MyHelperMethods.cs" Line="34" Column="64" />
+      <File FileName="Assets/Scripts/Index/IndexController.cs" Line="7" Column="17" />
+      <File FileName="Assets/Scripts/GameSceneScripts/BackController.cs" Line="9" Column="28" />
+      <File FileName="Assets/Scripts/GameSceneScripts/GridController.cs" Line="28" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
